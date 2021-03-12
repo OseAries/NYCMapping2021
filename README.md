@@ -1,2 +1,2 @@
 # NYCMapping2021
-Organization of the QGIS layer base files to run an image of the map
+The QGIS Map, QGIS Layer Base Files, and the OG Files for the Layering 
