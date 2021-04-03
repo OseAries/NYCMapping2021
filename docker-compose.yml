@@ -1,0 +1,8 @@
+app:
+    extends: meta
+    image: nycmapping2021
+    build:
+      context: ./docker/
+      args:
+        USER_ID: "$USER_ID"
+        GROUP_ID: "$GROUP_ID"
